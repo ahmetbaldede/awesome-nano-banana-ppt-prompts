@@ -21,63 +21,55 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **7** prompts
-
-- ### [McKinsey & Company presentation style](prompts/mckinsey-company-presentation-style/prompt.md)
-
-  ![Preview](prompts/mckinsey-company-presentation-style/preview-1.webp)
-
-  McKinsey & Company presentation style
-
-  **Tags:** `McKinsey`, `consultant`, `business` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
-
-- ### [Product launch deck in Apple-style minimalism](prompts/product-launch-deck-in-apple-style-minimalism/prompt.md)
-
-  ![Preview](prompts/product-launch-deck-in-apple-style-minimalism/preview-1.jpg)
-
-  Product launch deck in Apple-style minimalism
-
-  **Tags:** `apple`, `product launch` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+Total: **6** prompts
 
 - ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
   ![Preview](prompts/analog-film-photography-aesthetic/preview-1.webp)
 
-  Analog film photography aesthetic
+  **Tags:** `analog photography`, `35mm film`, `kodak portra`, `hiking life`, `film grain`
 
-  **Tags:** `analog photography`, `35mm film`, `kodak portra`, `hiking life`, `film grain` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+  **Contributor:** [2slides](https://github.com/2slides)
 
 - ### [Egyptian theme for junior graders students](prompts/egyptian-theme-for-junior-graders-students/prompt.md)
 
   ![Preview](prompts/egyptian-theme-for-junior-graders-students/preview-1.webp)
 
-  Egyptian theme for junior graders students
+  **Tags:** `Egyptian`, `education`, `student`, `junior graders`
 
-  **Tags:** `Egyptian`, `education`, `student`, `junior graders` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
-
-- ### [Travel journal collage](prompts/travel-journal-collage/prompt.md)
-
-  ![Preview](prompts/travel-journal-collage/preview-1.webp)
-
-  Travel journal collage
-
-  **Tags:** `travel journal`, `mixed media`, `collage art`, `polaroid`, `road trip`, `hand written`, `scrapbooking` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+  **Contributor:** [2slides](https://github.com/2slides)
 
 - ### [Moody outdoor photography](prompts/moody-outdoor-photography/prompt.md)
 
   ![Preview](prompts/moody-outdoor-photography/preview-1.webp)
 
-  Moody outdoor photography
+  **Tags:** `moody photography`, `foggy forest`, `silhouette`
 
-  **Tags:** `moody photography`, `foggy forest`, `silhouette` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Product launch deck in Apple-style minimalism](prompts/product-launch-deck-in-apple-style-minimalism/prompt.md)
+
+  ![Preview](prompts/product-launch-deck-in-apple-style-minimalism/preview-1.jpg)
+
+  **Tags:** `apple`, `product launch`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Travel journal collage](prompts/travel-journal-collage/prompt.md)
+
+  ![Preview](prompts/travel-journal-collage/preview-1.webp)
+
+  **Tags:** `travel journal`, `mixed media`, `collage art`, `polaroid`, `road trip`, `hand written`, `scrapbooking`
+
+  **Contributor:** [2slides](https://github.com/2slides)
 
 - ### [WPA National Park poster style](prompts/wpa-national-park-poster-style/prompt.md)
 
   ![Preview](prompts/wpa-national-park-poster-style/preview-1.webp)
 
-  WPA National Park poster style
+  **Tags:** `WPA poster`, `national park poster`, `vintage travel`, `mountain landscape`, `flat design`, `retro poster`
 
-  **Tags:** `WPA poster`, `national park poster`, `vintage travel`, `mountain landscape`, `flat design`, `retro poster` | **Contributor:** [![2slides](https://github.com/2slides.png?s=20) 2slides](https://github.com/2slides)
+  **Contributor:** [2slides](https://github.com/2slides)
 
 ## How to Use
 
