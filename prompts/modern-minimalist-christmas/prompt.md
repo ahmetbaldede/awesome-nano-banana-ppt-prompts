@@ -1,7 +1,7 @@
 ---
 id: modern-minimalist-christmas
 title: Modern Minimalist Christmas
-tags: Christmas style, Modern Minimalist
+tags: Christmas, Modern, Minimalist
 contributor: 2slides
 ---
 
