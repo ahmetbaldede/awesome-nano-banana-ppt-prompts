@@ -21,13 +21,21 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **16** prompts
+Total: **17** prompts
 
 - ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
   ![Preview](prompts/analog-film-photography-aesthetic/preview-1.webp)
 
   **Tags:** `analog photography`, `35mm film`, `kodak portra`, `hiking life`, `film grain`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Blueprint Style](prompts/blueprint-style/prompt.md)
+
+  ![Preview](prompts/blueprint-style/preview-1.webp)
+
+  **Tags:** `blueprint`, `engineering`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
