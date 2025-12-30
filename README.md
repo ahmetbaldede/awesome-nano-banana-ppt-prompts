@@ -21,7 +21,7 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **17** prompts
+Total: **21** prompts
 
 - ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
@@ -44,6 +44,22 @@ Total: **17** prompts
   ![Preview](prompts/christmas-classic-color-theme-and-elements/preview-1.webp)
 
   **Tags:** `classic chrismas`, `3d`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Dark data visualization dashboard style](prompts/dark-data-visualization-dashboard-style/prompt.md)
+
+  ![Preview](prompts/dark-data-visualization-dashboard-style/preview-1.webp)
+
+  **Tags:** `dark`, `data visualization`, `dashboard`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Data visualization chart key metrics style](prompts/data-visualization-chart-key-metrics-style/prompt.md)
+
+  ![Preview](prompts/data-visualization-chart-key-metrics-style/preview-1.webp)
+
+  **Tags:** `data visualization`, `charts`, `key metrics`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -111,6 +127,14 @@ Total: **17** prompts
 
   **Contributor:** [2slides](https://github.com/2slides)
 
+- ### [SaaS dashboard style](prompts/saas-dashboard-style/prompt.md)
+
+  ![Preview](prompts/saas-dashboard-style/preview-1.webp)
+
+  **Tags:** `dashboard`, `key metrics`, `visual graph`, `charts`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
 - ### [Saul Bass style with the classic "Anatomy of a Murder" Look](prompts/saul-bass-style-with-the-classic-anatomy-of-a-murder-look/prompt.md)
 
   ![Preview](prompts/saul-bass-style-with-the-classic-anatomy-of-a-murder-look/preview-1.webp)
@@ -148,6 +172,14 @@ Total: **17** prompts
   ![Preview](prompts/whimsical-3d-isometric-christmas/preview-1.webp)
 
   **Tags:** `Whimsical`, `3D`, `Christmas`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Whiteboard data analysis sketch style](prompts/whiteboard-data-analysis-sketch-style/prompt.md)
+
+  ![Preview](prompts/whiteboard-data-analysis-sketch-style/preview-1.webp)
+
+  **Tags:** `whiteboard`, `data analysis`, `sketch`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
