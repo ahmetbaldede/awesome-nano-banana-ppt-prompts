@@ -1,5 +1,5 @@
 ---
-id: data-visualization-chart-key-metrics-style-
+id: data-visualization-chart-key-metrics-style
 title: Data visualization chart key metrics style 
 tags: data visualization, charts, key metrics
 contributor: 2slides
