@@ -21,7 +21,7 @@ This repository contains curated prompts for generating high-quality PPT slides.
 
 ## Prompts Gallery
 
-Total: **21** prompts
+Total: **24** prompts
 
 - ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
 
@@ -44,6 +44,14 @@ Total: **21** prompts
   ![Preview](prompts/christmas-classic-color-theme-and-elements/preview-1.webp)
 
   **Tags:** `classic chrismas`, `3d`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Cute educational game map vector illustration](prompts/cute-educational-game-map-vector-illustration/prompt.md)
+
+  ![Preview](prompts/cute-educational-game-map-vector-illustration/preview-1.png)
+
+  **Tags:** `Cute educational`, `game map`, `kids`, `playful`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
@@ -159,11 +167,27 @@ Total: **21** prompts
 
   **Contributor:** [2slides](https://github.com/2slides)
 
+- ### [Stylized architectural blueprint concept art](prompts/stylized-architectural-blueprint-concept-art/prompt.md)
+
+  ![Preview](prompts/stylized-architectural-blueprint-concept-art/preview-1.png)
+
+  **Tags:** `Blue-Line Concept`, `Blueprint`, `Pixar-style Storyboard`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
 - ### [Travel journal collage](prompts/travel-journal-collage/prompt.md)
 
   ![Preview](prompts/travel-journal-collage/preview-1.webp)
 
   **Tags:** `travel journal`, `mixed media`, `collage art`, `polaroid`, `road trip`, `hand written`, `scrapbooking`
+
+  **Contributor:** [2slides](https://github.com/2slides)
+
+- ### [Vintage architectural cross-section watercolor illustration](prompts/vintage-architectural-cross-section-watercolor-illustration/prompt.md)
+
+  ![Preview](prompts/vintage-architectural-cross-section-watercolor-illustration/preview-1.png)
+
+  **Tags:** `Vintage architectural`, `cross-section`, `watercolor illustration`
 
   **Contributor:** [2slides](https://github.com/2slides)
 
